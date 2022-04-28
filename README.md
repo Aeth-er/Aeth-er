@@ -10,7 +10,7 @@ I am also a discord server owner and moderator. I learned a lot from the differe
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Let me know by [email](mailto:msultankhalid@gmail.com) :)
+- 💼 Any freelance work? Let me know by [email](mailto:msultankhalid@gmail.com)
 - 💬 Ask me anything [here](https://discord.gg/TDbGjjgcDA)
 
 **Languages and tools:**  
