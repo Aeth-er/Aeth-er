@@ -1,4 +1,4 @@
-<center><img src="https://gfycat.com/mealymindlessarchaeocete" alt="Mokkapps GitHub README header image"></center>[Imgur](https://imgur.com/uHONvhW)
+<center><img src="https://tenor.com/bTqez.gif" alt="Mokkapps GitHub README header image"></center>
 
 
 <br />
