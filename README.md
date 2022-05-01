@@ -1,4 +1,4 @@
-<center><img src="https://im3.ezgif.com/tmp/ezgif-3-20339ceb46.gif" alt="Mokkapps GitHub README header image"></center>
+<center><img src="https://imgur.com/a/eR23amG" alt="Mokkapps GitHub README header image"></center>
 
 
 <br />
