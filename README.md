@@ -1,4 +1,4 @@
-<center><img src="https://tenor.com/bTqez.gif" alt="Mokkapps GitHub README header image"></center>
+<center><img src="https://tenor.com/bTqez.gif"></center>
 
 
 <br />
