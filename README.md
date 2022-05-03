@@ -3,7 +3,7 @@
 
 <br />
 
-Hello, my name is [Aether](https://aetherisme.xyz), and I'm a passionate self-taught full stack web developer and freelance software engineer from Pakistan. My passion for software is inventing new ideas and bringing them to life through attractive user interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.
+Hello, my name is [Aether](https://aetherisme.xyz), and I'm a passionate self-taught web developer and learning software engineer from Pakistan. My passion for software is inventing new ideas and bringing them to life through attractive user interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.
 
 I am also a discord server owner and moderator. I learned a lot from the different servers/communities and I love how working with new people. DM [Aether#9840](https://discord.gg/TDbGjjgcDA) for more information.
 
