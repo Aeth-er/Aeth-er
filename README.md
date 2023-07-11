@@ -3,9 +3,7 @@
 
 <br />
 
-Hello, my name is [Aether](https://aetherisme.xyz), and I'm a passionate self-taught web developer and learning software engineer from Pakistan. My passion for software is inventing new ideas and bringing them to life through attractive user interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.
-
-I am also a discord server owner and moderator. I learned a lot from the different servers/communities and I love how working with new people. DM [Aether#9840](https://discord.gg/TDbGjjgcDA) for more information.
+Hello, my name is Sultan aka [Aether](https://aetherisme.xyz), and I'm a passionate self-taught web developer and learning software engineer from Pakistan. My passion for software is inventing new ideas and bringing them to life through attractive user interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -31,8 +29,7 @@ if you like what i do, maybe consider donating to me :)
 
   - **Stuff I'm Doing**
 <!-- TODO-IST:START -->
-- Aquary - Bottle Business          
-- TCR - Discord Server          
+- Aquary - Bottle Business                 
 - Learning Stock, Crypto and NFT's           
 - Getting high rank in a game lol
 <!-- TODO-IST:END -->
