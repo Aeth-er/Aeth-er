@@ -3,7 +3,7 @@
 
 <br />
 
-Hello, my name is Sultan aka [Aether](https://aetherisme.xyz), and I'm a passionate self-taught web developer and learning software engineer from Pakistan. My passion for software is inventing new ideas and bringing them to life through attractive user interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.
+Hello, my name is Sultan aka [Tippy](https://sultan.lol), and I'm a passionate self-taught web developer and learning software engineer from Pakistan. My passion for software is inventing new ideas and bringing them to life through attractive user interfaces. I put a lot of thought into the user experience, architecture, and code quality of the products I create.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
