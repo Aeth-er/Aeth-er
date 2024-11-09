@@ -8,7 +8,7 @@ Hello, my name is Sultan aka [Tippy](https://sultan.lol), and I'm a passionate s
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Let me know by [email](mailto:msultankhalid@gmail.com)
-- 💬 Ask me anything [here](https://discord.gg/TDbGjjgcDA)
+- 💬 Ask me anything via email or [here]([https://discord.com/users/867887887332933632])
 
 **Languages and tools:**  
 
