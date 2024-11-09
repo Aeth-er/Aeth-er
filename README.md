@@ -1,4 +1,4 @@
-<center><img src="https://github.com/Aeth-er/Aeth-er/blob/main/1.gif"></center>
+<p align="center"><img src="https://github.com/Aeth-er/Aeth-er/blob/main/1.gif"></p>
 
 
 <br />
