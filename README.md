@@ -1,4 +1,4 @@
-<center><img src="https://github.com/Aeth-er/Aeth-er/blob/main/ezgif.com-gif-maker%20(1).gif"></center>
+<center><img src="https://github.com/Aeth-er/Aeth-er/blob/main/1.gif"></center>
 
 
 <br />
